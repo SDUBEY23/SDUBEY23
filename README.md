@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SDUBEY23
+- 👋 Hi, I’m @Swapnil Dubey
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working in Cognizant and also learning new technologies 
 - 💞️ I’m looking to collaborate on ...
