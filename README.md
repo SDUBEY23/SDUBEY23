@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnil Dubey
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working in Cognizant and also learning new technologies 
+- 🌱 I’m currently working in Deloitte USI(Office of the US) and also learning new technologies 
 - 💞️ I’m looking to collaborate on Frontend Developer Jobs
 - 📫 Reach me on swapnil.vishu.7027@gmail.com
 
